@@ -11,8 +11,6 @@ LLDB를 공부하기 위한 강좌, 블로그, 책을 추천합니다.
 
 - [LLDB 정복 - 가은](https://yagom.net/courses/start-lldb/) 🇰🇷
 
-동영상 X
-
 - [디버깅 시작해버깅 - 가은](https://www.youtube.com/watch?v=2lwWggsYeXU) 🇰🇷
 
 ![StartDebugging](./images/StartDebugging.png)
